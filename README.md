@@ -1,2 +1,5 @@
-# Shopify-Data-Analysis Dashboard
-Doing data analysis on a sample shopify dataset
+# Shopify-Data-Analysis
+Data analysis on a sample shopify dataset
+
+I've included the Dashboard created from the analysis for review
+
